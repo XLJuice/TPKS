@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : дхндш-MM.LibPkg
+
+Section : F:\CHNU MOHILYNKA\P-CAD оСГШП╦Б\PcadLab4\libs\дхндш-MM.LIA
+    Section : PCB Library - дхндш-MM.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - дхндш-MM.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - дхндш-MM.SchLib
+        EndSection
+    EndSection
+EndSection

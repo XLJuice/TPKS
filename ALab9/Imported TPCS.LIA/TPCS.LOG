@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : TPCS.LibPkg
+
+Section : F:\CHNU MOHILYNKA\P-CAD ѕузырЄв\PcadLab4\libs\TPCS.LIA
+    Section : PCB Library - TPCS.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TPCS.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - TPCS.SchLib
+        EndSection
+    EndSection
+EndSection

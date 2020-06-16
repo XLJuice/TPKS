@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : ALCOTESTCOMPONENTS.LibPkg
+
+Section : F:\CHNU MOHILYNKA\P-CAD ѕузырЄв\PcadLab4\libs\ALCOTESTCOMPONENTS.LIA
+    Section : PCB Library - ALCOTESTCOMPONENTS.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ALCOTESTCOMPONENTS.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - ALCOTESTCOMPONENTS.SchLib
+        EndSection
+    EndSection
+EndSection

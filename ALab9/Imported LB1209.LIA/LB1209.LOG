@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : LB1209.LibPkg
+
+Section : F:\CHNU MOHILYNKA\P-CAD ѕузырЄв\PcadLab4\libs\LB1209.LIA
+    Section : PCB Library - LB1209.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LB1209.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - LB1209.SchLib
+        EndSection
+    EndSection
+EndSection

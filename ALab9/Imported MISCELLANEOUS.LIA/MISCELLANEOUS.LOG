@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : MISCELLANEOUS.LibPkg
+
+Section : F:\CHNU MOHILYNKA\P-CAD ѕузырЄв\PcadLab4\libs\MISCELLANEOUS.LIA
+    Section : PCB Library - MISCELLANEOUS.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MISCELLANEOUS.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - MISCELLANEOUS.SchLib
+        EndSection
+    EndSection
+EndSection
